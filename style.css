@@ -1,0 +1,237 @@
+
+.flex {
+    list-style: none;
+    display: flex;
+    position: relative;
+    left: 249px;
+    top: -43px;
+    justify-content: space-evenly;
+}
+li{
+    margin-left: 20px;
+    
+}
+.filter{
+    list-style: none;
+    display: flex;
+    position: relative;
+    left: 850px;
+    top: -80px;
+}
+.heading{
+    position: relative;
+    left: 50px;
+}
+.data{
+    position: relative;
+    left: 50px;
+    top: -479px;
+    color: white;
+    font-family: ache;
+}
+.circle{
+    position: relative;
+    height: 500px;
+    width: 500px;
+    border-radius: 250%;
+    background-color:#2d2d39;
+    left: 256px;
+    top: -69px;
+}
+.basit{
+    font-size: 55px;
+}
+.parent{
+    background-color:rgba(54,53,67,255);
+    color: white;
+    padding-top: 25px;
+    height: 630px;
+    width: 1050px;
+}
+i{
+    color: yellow;
+}
+.personal{
+    height: 500px;
+    width: 500px;
+    margin-top: -5px;
+    margin-left: -20px;
+    
+}
+.section{
+    position: relative;
+    left: 690px;
+    bottom: 800px;
+    font-size: 25px;
+
+}
+button{
+    text-decoration: none;
+    border: none;
+    color: yellow;
+    background-color:#2d2d39;
+    position: relative;
+    left: -5px;    
+}
+.icons2{
+    list-style: none;
+    display: flex;
+    position: relative;
+}
+.parent2{
+    background-color:#282834;
+    position: relative;
+    width: 1050px;
+    height: 1000px;
+    bottom: 605px;
+    display: flex;
+    margin-top: -20px;
+}
+.sizing{
+    position: relative;
+    margin-left: 50px;
+    margin-top: -65px;
+    width: 930px;
+    height: 123px;
+    background-color:rgba(54,53,67,255);
+    display: flex;
+    box-shadow:2px 0px 22px 3px black;
+    justify-content: space-evenly;
+}
+.logo{
+    height: 60px;
+    width: 150px;
+    display: inline-block;
+    margin-top: 35px;
+    margin-left: 10px; 
+    background-color:#282834 ; 
+  
+}
+.service{
+    position:absolute;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 150px;
+   
+}
+ul{
+    list-style: none;
+    margin-left: -60px;
+    display: flex;
+    width: 400px;
+    font-size: 10px;
+    line-height: 20px;
+}
+span{
+    color: yellow;
+    font-size: 24px;
+}
+.ux{
+   width: 450px;
+   height: 100px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 530px
+    ;
+    border-bottom: 2px solid white;
+}
+
+img{width: 100px;
+   height: 80px;
+}
+.text{
+
+   margin-left: 110px;
+   margin-top: -70px;
+}
+.span2{
+    font-size: 10px;
+    color: white;
+}
+.front{  width: 450px;
+    height: 100px;
+     position: absolute;
+     margin-top: 300px;
+     margin-left: 530px
+     ;
+     border-bottom: 2px solid white;
+}
+.mobile{
+    width: 450px;
+    height: 100px;
+     position: absolute;
+     margin-top: 450px;
+     margin-left: 530px
+     ;
+     border-bottom: 2px solid white;
+}
+.text6{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 650px;
+    width: 250px;
+    height: 280px;
+    background-color: #403f51;
+    padding: 10px;
+}
+.text5{
+    position: absolute;
+    margin-left: 340px;
+    margin-top: 650px;
+    width: 250px;
+    height: 280px;
+    background-color: #403f51;
+    padding: 10px;
+}
+.text4{
+    position: absolute;
+    margin-left: 630px;
+    margin-top: 650px;
+    width: 250px;
+    height: 280px;
+    background-color: #403f51;
+    padding: 10px;
+}
+body{
+    overflow-x: hidden;
+}
+.white{
+    color: white;
+}
+.im{
+    font-size: 40px;
+color: white;}
+.home{
+    color: grey;
+}
+.arrow{
+    position: absolute;
+    margin-left: 320px;
+}
+.line{
+    border-bottom: 4px solid yellow;
+    width: 130px;
+    margin-top: -18px;
+    position: relative;
+        top: -18px;
+
+}
+.what{
+    font-size: 31px;
+    height: 66px;
+    width: 300px;
+}
+.develop{
+    top: 30px;
+    left: 20px;
+    position: relative;
+    background-color:#282834;
+}
+.basit2{
+    position: relative;
+    top: 50px;
+}
+.basit3{
+    position: relative;
+top: 50px;
+}
